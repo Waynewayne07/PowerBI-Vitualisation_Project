@@ -1,5 +1,5 @@
-# Power BI Final Project
-This is a Power BI project analyzing sales and performance data.
+# Power BI Practice Project
+This is a Power BI project analysing sales and performance data.
 
 ## 📊 Features:
 - Time Intelligence (YTD, QTD, PYTD)
